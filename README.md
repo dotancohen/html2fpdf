@@ -5,3 +5,5 @@ Old simple HTML 2 PDF script (php). It doesn't require any installation. This pr
 ## Changelog since fork
 
 * Update README
+* Update credits file
+
