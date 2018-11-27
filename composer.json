@@ -2,6 +2,7 @@
     "name": "dotancohen/html2fpdf",
     "description": "Script for converting HTML to PDF.",
     "type": "library",
+    "version": "0.1",
     "license": "GNU Lesser General Public License",
     "authors": [
         {
